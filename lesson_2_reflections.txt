@@ -13,3 +13,7 @@ The staging area lets you have an intermediary between your repository and your 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Branches help you work on different sections of a project. You could keep your fully functional history in one master branch, and create separate branches to have experimental versions, projects with ongoing development work and specific features.
+
+How do the diagrams help you visualize the branch structure?
+
+Diagrams make branch structure easier to digest because it visual interpretation of which commits can be accessed by which branch and what you may lose if you switch to a certain commit.
