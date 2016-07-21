@@ -17,3 +17,7 @@ Branches help you work on different sections of a project. You could keep your f
 How do the diagrams help you visualize the branch structure?
 
 Diagrams make branch structure easier to digest because it visual interpretation of which commits can be accessed by which branch and what you may lose if you switch to a certain commit.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result of merging two branches together is having access to commits from both branches available at once. We represent it by joining the head of both branches together to highlight the fact that both branches' commits are accessible for logging purposes and the history has not been deleted.
