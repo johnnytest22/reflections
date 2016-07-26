@@ -21,3 +21,7 @@ Diagrams make branch structure easier to digest because it visual interpretation
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The result of merging two branches together is having access to commits from both branches available at once. We represent it by joining the head of both branches together to highlight the fact that both branches' commits are accessible for logging purposes and the history has not been deleted.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+The pros of auto-merging are that you save yourself the time of comparing lines of code when logically, git can surmise what code is new vs old. The cons of course are that occasionally, when it comes to erasing and redoing logic, you can confuse the code being committed. The pros of auto-merging are that you can meticulously decide which code to commit. The cons are that it takes a significant amount of time to do so.
