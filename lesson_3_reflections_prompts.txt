@@ -5,3 +5,7 @@ You would want to use a remote repository for multiple reasons. The main reason 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 By pulling changes manually, you're able to verify that the changes being won't break the code that you've completed. You get the chance to fix any conflicts that may have appeared from various people contributing to a project. Similarly, it can also help you familiarize yourself with the specific changes that other contributors may have made.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks copy remote repositories onto your own remote repository on github. Clones copy remote repositories onto your local directory or local to local. Branches create an instance of your local repository off the most recent commit.
