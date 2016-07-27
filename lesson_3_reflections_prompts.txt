@@ -13,3 +13,7 @@ Forks copy remote repositories onto your own remote repository on github. Clones
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 The benefit of having the last known state of the remote stored locally is that it helps you during merge conflicts when two different contributors provide their changes since you have the reference point of what the last known state was both locally and remotely.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I would have multiple contributors work collaboratively on projects. Not only could I use github to experiment with different branches and versions of my project, but I could also maintain code quality by routinely having my colleagues code review my work.
